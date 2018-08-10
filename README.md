@@ -1,7 +1,7 @@
 
 #WinstantPay PHP API
 
-![The WinstantPay Logo](http://www.winstantpay.com/assets/img/logo-winstantpay-L-notag-trans.png "The WinstantPay Logo")
+![The WinstantPay Logo](https://www.winstantpay.com/imgs/logo-78.png "The WinstantPay Logo")
 
 These are the PHP examples for using the WinstantPay webservice API
 

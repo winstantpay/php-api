@@ -1,6 +1,8 @@
 <?php
 return (object) array(
     "username" => "",
-    "password" => "",
-    "callerId" => ""
+    "password" => "@",
+    "callerId" => "",
+    "FromWallet" => "",
+	"ToWallet" => ""
 );
